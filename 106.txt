@@ -1,0 +1,12 @@
+-->Central tendency of data-mean,median,mode
+-->central tendency of data- tries to describe the central position (where most data is centered)of data
+-->mean,median,mode in which central tendency of data can be calculated
+-->Standard deviation-is a measure of how much the members of a data set differ from the mean
+
+So, far we have been restricted to one data set only.
+------------------------------------------------------------------
+Today , We will learn how two data sets are related to each other
+Ex: teamperature vs sale of ice cream/cold drinks
+1.Look at the data
+2.visually identify if the data sets are corelated
+3.calculate the correlation index on a spreadsheet.
