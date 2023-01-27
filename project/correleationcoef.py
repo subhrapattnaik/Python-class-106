@@ -9,6 +9,7 @@ ice_cream_sales=[]
 with open("./temperatureicecream.csv") as csv_file:
   csv_reader=csv.DictReader(csv_file)
   
+  
   for row in csv_reader:
      temperature.append(float(row["Temperature"]))
      ice_cream_sales.append(float(row["Ice-cream-Sales"]))
